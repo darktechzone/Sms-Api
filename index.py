@@ -14,7 +14,7 @@ CREDENTIALS = {
     "password": "112233"
 }
 BASE_URL = "http://51.89.99.105/NumberPanel"
-STATS_PAGE_URL = BASE_URL + "/agent/SMSCDRStats"
+STATS_PAGE_URL = BASE_URL + "/agent/SMSCDRStats2"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
